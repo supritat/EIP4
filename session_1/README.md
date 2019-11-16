@@ -1,4 +1,5 @@
 Score: [0.021970814519462194, 0.9943] with 3X3 kernel and maxpool input is 5.
+[0.0303, 0.9933] with 3X3 kernel and maxpool input is 4.
 
 
 1. Convolution: Running a filter/kernel over the image to extract key features.
